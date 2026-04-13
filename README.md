@@ -41,14 +41,9 @@ The analysis is performed using multiple industry-standard tools including **Exc
 
 ## 📸 Dashboard Preview
 
-(Add your screenshots here after uploading images to the repository)
-
-Example:
-
-```
-<img width="1918" height="1003" alt="Tableau_Dashboard" src="https://github.com/user-attachments/assets/bcdace84-81c1-4d72-ad42-4ddb6c8ba3b7" />
-<img width="1508" height="793" alt="Profit_Dashboard" src="https://github.com/user-attachments/assets/962dacec-17e3-4f85-aaeb-c08c444135d6" />
-<img width="1441" height="710" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/3e186db1-4d2b-4ecb-944c-8e95917b4778" />
+<img width="1918" height="1003" alt="Tableau_Dashboard" src="https://github.com/user-attachments/assets/ed044bde-6a77-47da-82d1-9c69a4028296" />
+<img width="1441" height="710" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/97cf6086-10b8-45f1-83bb-845e1b9571d9" />
+<img width="1508" height="793" alt="Profit_Dashboard" src="https://github.com/user-attachments/assets/fdd57a3e-42e3-4f5e-b59a-40220baca69e" />
 
 
 ```
