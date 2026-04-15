@@ -41,6 +41,8 @@ The analysis is performed using multiple industry-standard tools including **Exc
 
 ## 📸 Dashboard Preview
 
+<img width="1432" height="807" alt="pbi_dash1" src="https://github.com/user-attachments/assets/c75ff7e4-1244-4ff7-809d-d7d916f99e6e" />
+<img width="1432" height="801" alt="pbi_dash2" src="https://github.com/user-attachments/assets/8b48048e-f82e-40d5-b1b2-ec13631c7411" />
 <img width="1918" height="1003" alt="Tableau_Dashboard" src="https://github.com/user-attachments/assets/ed044bde-6a77-47da-82d1-9c69a4028296" />
 <img width="1441" height="710" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/97cf6086-10b8-45f1-83bb-845e1b9571d9" />
 <img width="1508" height="793" alt="Profit_Dashboard" src="https://github.com/user-attachments/assets/fdd57a3e-42e3-4f5e-b59a-40220baca69e" />
